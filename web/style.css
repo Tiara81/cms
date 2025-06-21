@@ -28,7 +28,7 @@ a {
 
 .header-bg {
   height: 200px;
-  background-image: url('https://github.com/Tiara81/cms/blob/main/web/rumput.jpg');
+  background-image: url('rumput.jpg');
   background-size: cover;
   background-position: center;
 }
